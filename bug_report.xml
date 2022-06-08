@@ -1,1 +1,14 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <ID>1568</ID>
+    <Summary>Нет выпадающего списка аудиофайлов при клике мышкой на вкладку 'Название аудиосказки'</Summary>
+    <Prodject>Аудиосказки для детей от трех до семи лет</Prodject>
+    <Version>1.2.9</Version>
+    <Severity>высокая</Severity>
+    <Priority>высокий</Priority>
+    <Status>открытый</Status>
+    <Author>Елена</Author>
+    <Executor>Алексей</Executor>
+    <Actual result>Не выбрать аудиосказку для прослушивания</Actual result>
+    <Expected result>должен выпадать список аудиосказок для прослушивания</Expected result>
+</root>
